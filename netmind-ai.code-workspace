@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "NetMind AI Root",
+      "path": "."
+    },
+    {
+      "name": "Backend (FastAPI)",
+      "path": "./backend"
+    },
+    {
+      "name": "Frontend (React + Vite)",
+      "path": "./frontend"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/Scripts/python.exe",
+    "typescript.tsdk": "frontend/node_modules/typescript/lib",
+    "editor.formatOnSave": true
+  }
+}
